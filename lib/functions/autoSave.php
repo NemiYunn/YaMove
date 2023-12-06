@@ -6,7 +6,7 @@ class Entry extends Main{
     
     public function addEntry()
     {
-        // this function automatically execute at specified time in 
+        // this function automatically execute at specified time in the
         // task schedular and script .bat and .vbs file has inside autoScriptRunner folder
         $month = date("F");
         $day = date("d");
